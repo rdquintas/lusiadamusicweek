@@ -5,10 +5,15 @@
 
 .zrq-logo {
   width: 100%;
-  -webkit-filter: invert(100%); /* Safari/Chrome */
+  -webkit-filter: invert(100%);
+  /* Safari/Chrome */
   filter: invert(100%);
 }
 
 .zrq-tel-link {
   color: #fff;
+}
+
+.zrq-width-100 {
+  width: 100%;
 }
