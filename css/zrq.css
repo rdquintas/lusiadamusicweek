@@ -1,0 +1,14 @@
+.zrq-white {
+  color: #fff;
+  text-shadow: 2px 2px #000;
+}
+
+.zrq-logo {
+  width: 100%;
+  -webkit-filter: invert(100%); /* Safari/Chrome */
+  filter: invert(100%);
+}
+
+.zrq-tel-link {
+  color: #fff;
+}
